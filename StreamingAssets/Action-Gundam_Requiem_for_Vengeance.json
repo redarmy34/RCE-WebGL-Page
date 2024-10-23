@@ -1,0 +1,1214 @@
+{
+  "ProjectName": "Action - Gundam Requiem for Vengeance",
+  "Details": "",
+  "FileName": "Action - Gundam Requiem for Vengeance.json",
+  "VideoFile": "https://ccrma.stanford.edu/~lloyd/RCE/Gundam_S1E1_Action_Edited_4to3.mp4",
+  "StyleGroups": [
+    {
+      "Name": "Color by Caption Type",
+      "Styles": [
+        {
+          "Name": "Default",
+          "Description": "",
+          "FeatureName": "Default Feature",
+          "element": {
+            "Name": "Default",
+            "Value": ""
+          },
+          "featureFilter": 5
+        },
+        {
+          "Name": "Default Music",
+          "Description": "",
+          "FeatureName": "Purple Text",
+          "element": {
+            "Name": "Default",
+            "Value": "Music"
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Default Sound Effects",
+          "Description": "",
+          "FeatureName": "Red Text",
+          "element": {
+            "Name": "Default",
+            "Value": "Sound Effects"
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Default Speech",
+          "Description": "",
+          "FeatureName": "Defaults",
+          "element": {
+            "Name": "Default",
+            "Value": "Speech"
+          },
+          "featureFilter": 5
+        },
+        {
+          "Name": "Bold",
+          "Description": "",
+          "FeatureName": "Bold",
+          "element": {
+            "Name": "b",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Italic",
+          "Description": "",
+          "FeatureName": "Italic",
+          "element": {
+            "Name": "i",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Underline",
+          "Description": "",
+          "FeatureName": "Underline",
+          "element": {
+            "Name": "u",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Strikethrough",
+          "Description": "",
+          "FeatureName": "Strikethrough",
+          "element": {
+            "Name": "s",
+            "Value": ""
+          },
+          "featureFilter": 4
+        }
+      ]
+    },
+    {
+      "Name": "Importance to Color",
+      "Styles": [
+        {
+          "Name": "Default",
+          "Description": "",
+          "FeatureName": "Default Feature",
+          "element": {
+            "Name": "Default",
+            "Value": ""
+          },
+          "featureFilter": 5
+        },
+        {
+          "Name": "Default Music",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Music"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Default Sound Effects",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Sound Effects"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Default Speech",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Speech"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Bold",
+          "Description": "",
+          "FeatureName": "Bold",
+          "element": {
+            "Name": "b",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Italic",
+          "Description": "",
+          "FeatureName": "Italic",
+          "element": {
+            "Name": "i",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Underline",
+          "Description": "",
+          "FeatureName": "Underline",
+          "element": {
+            "Name": "u",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Strikethrough",
+          "Description": "",
+          "FeatureName": "Strikethrough",
+          "element": {
+            "Name": "s",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "High Importance -> Red",
+          "Description": "",
+          "FeatureName": "Red Text",
+          "element": {
+            "Name": "Narrative Importance",
+            "Value": "High"
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Low Narrative Importance -> Grey",
+          "Description": "",
+          "FeatureName": "Grey Text",
+          "element": {
+            "Name": "Narrative Importance",
+            "Value": "Low"
+          },
+          "featureFilter": 4
+        }
+      ]
+    },
+    {
+      "Name": "Importance to Font Weight",
+      "Styles": [
+        {
+          "Name": "Default",
+          "Description": "",
+          "FeatureName": "Default Feature",
+          "element": {
+            "Name": "Default",
+            "Value": ""
+          },
+          "featureFilter": 5
+        },
+        {
+          "Name": "Default Music",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Music"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Default Sound Effects",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Sound Effects"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Default Speech",
+          "Description": "",
+          "FeatureName": "",
+          "element": {
+            "Name": "Default",
+            "Value": "Speech"
+          },
+          "featureFilter": 7
+        },
+        {
+          "Name": "Bold",
+          "Description": "",
+          "FeatureName": "Bold",
+          "element": {
+            "Name": "b",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Italic",
+          "Description": "",
+          "FeatureName": "Italic",
+          "element": {
+            "Name": "i",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Underline",
+          "Description": "",
+          "FeatureName": "Underline",
+          "element": {
+            "Name": "u",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "Strikethrough",
+          "Description": "",
+          "FeatureName": "Strikethrough",
+          "element": {
+            "Name": "s",
+            "Value": ""
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "New Style",
+          "Description": "",
+          "FeatureName": "Light text",
+          "element": {
+            "Name": "Narrative Importance",
+            "Value": "Low"
+          },
+          "featureFilter": 4
+        },
+        {
+          "Name": "New Style",
+          "Description": "",
+          "FeatureName": "Default Feature",
+          "element": {
+            "Name": "Narrative Importance",
+            "Value": "Medium"
+          },
+          "featureFilter": 5
+        },
+        {
+          "Name": "New Style",
+          "Description": "",
+          "FeatureName": "Extra Bold",
+          "element": {
+            "Name": "Narrative Importance",
+            "Value": "High"
+          },
+          "featureFilter": 4
+        }
+      ]
+    }
+  ],
+  "CueGroups": [
+    {
+      "Name": "Speech",
+      "Cues": [
+        {
+          "Identifier": "",
+          "StartTime": 48.205,
+          "EndTime": 49.538,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Take cover!\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 60.163,
+          "EndTime": 62.788,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Get moving!",
+                  "elements": [
+                    {
+                      "Name": "i",
+                      "Value": ""
+                    },
+                    {
+                      "Name": "Speaker",
+                      "Value": "Soldier"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 62.871,
+          "EndTime": 64.246,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Hurry up!",
+                  "elements": [
+                    {
+                      "Name": "i",
+                      "Value": ""
+                    },
+                    {
+                      "Name": "Speaker",
+                      "Value": "Soldier"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Soldier"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 73.246,
+          "EndTime": 75.496,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Get in your tanks! Mount up!",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Officer"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 75.58,
+          "EndTime": 79.121,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "All units, I need a sitrep!\nWhat the hell is happening?",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Major"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Officer"
+                    },
+                    {
+                      "Name": "Speaker",
+                      "Value": "Major"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 79.205,
+          "EndTime": 80.205,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Captain!",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Major"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 81.246,
+          "EndTime": 83.538,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "-How did you know?",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Major"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                },
+                {
+                  "s": "-Know what, sir?",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Solaris"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 98.163,
+          "EndTime": 99.746,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "What is the hell that?",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Soldier"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 105.08,
+          "EndTime": 107.08,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "Launch Zakus now!",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Major"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 107.163,
+          "EndTime": 108.705,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "-Yes, sir!",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Captain"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                },
+                {
+                  "s": "-Do it, soldier!",
+                  "elements": [
+                    {
+                      "Name": "Speaker",
+                      "Value": "Officer"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        }
+      ],
+      "TextVariations": [
+        "Standard English"
+      ],
+      "CurrentVariation": 0
+    },
+    {
+      "Name": "Sound Effects",
+      "Cues": [
+        {
+          "Identifier": "",
+          "StartTime": 8.433,
+          "EndTime": 11.183,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "E 2",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[clock ticking quietly]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Low"
+                    },
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "Medium"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "New Cue",
+          "StartTime": 12.1,
+          "EndTime": 14.1,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[bell tolls ominously]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Medium"
+                    },
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "Medium"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "New Cue",
+          "StartTime": 15.7199984,
+          "EndTime": 17.7199974,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[fire crackles]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Low"
+                    },
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "High"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 20.996,
+          "EndTime": 23.705,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[soft footsteps]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Low"
+                    },
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "Medium"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "New Cue",
+          "StartTime": 40.9204369,
+          "EndTime": 42.9204369,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[inaudible]",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 44.8760033,
+          "EndTime": 46.72544,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[high-pitched whine]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "New Cue",
+          "StartTime": 47.23384,
+          "EndTime": 48.23384,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[clicks]",
+                  "elements": [
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "Medium"
+                    },
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "High"
+                    }
+                  ]
+                },
+                {
+                  "s": "\u000b",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "High"
+                    }
+                  ]
+                },
+                {
+                  "s": "[beep]",
+                  "elements": [
+                    {
+                      "Name": "Visual Redundancy",
+                      "Value": "High"
+                    },
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "High"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 49.457,
+          "EndTime": 51.957,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "-[explosions]\n-[yelling]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 53.996,
+          "EndTime": 55.871,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "-[grunts]\n-[crashing sound]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 56.663,
+          "EndTime": 58.121,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[silence]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 60.163,
+          "EndTime": 62.788,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[faint sounds]\n\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 64.788,
+          "EndTime": 66.788,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[Solari gasps, grunts]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 68.33,
+          "EndTime": 70.288,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[continuing explosions]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 84.288,
+          "EndTime": 85.746,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[high-pitched whine]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 85.83,
+          "EndTime": 89.746,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "-[Solari breathes heavily]\n-[thundering crashes approach]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 102.871,
+          "EndTime": 104.996,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[dramatic chord]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 109.371,
+          "EndTime": 110.546906,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[explosion]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 110.575935,
+          "EndTime": 112.02446,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[chaotic sounds]\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        }
+      ],
+      "TextVariations": [
+        "Standard English"
+      ],
+      "CurrentVariation": 0
+    },
+    {
+      "Name": "Music",
+      "Cues": [
+        {
+          "Identifier": "New Cue",
+          "StartTime": 0.6,
+          "EndTime": 4.86,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "Soft background",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[gentle synth drones]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Low"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "",
+          "StartTime": 17.788,
+          "EndTime": 20.913,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "Soft background",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[gentle guitar melody]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Low"
+                    }
+                  ]
+                },
+                {
+                  "s": "\n",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        },
+        {
+          "Identifier": "New Cue",
+          "StartTime": 33.64683,
+          "EndTime": 39.42683,
+          "RegionFeature": "",
+          "CueElement": {
+            "Name": "",
+            "Value": ""
+          },
+          "TextSegments": [
+            {
+              "StringContent": [
+                {
+                  "s": "[guitar melody turns slightly sweet]",
+                  "elements": [
+                    {
+                      "Name": "Narrative Importance",
+                      "Value": "Medium"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "CurrentTextSegment": 0
+        }
+      ],
+      "TextVariations": [
+        "Standard English"
+      ],
+      "CurrentVariation": 0
+    }
+  ],
+  "currentCueGroupIndex": 1,
+  "currentStyleGroupIndex": 1
+}
